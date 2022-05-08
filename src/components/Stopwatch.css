@@ -1,0 +1,14 @@
+.container-stop{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(133, 132, 132);
+}
+.btn-stop{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}

@@ -1,0 +1,39 @@
+body {
+  margin: 0 auto;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-size: 34px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+  cursor: pointer;
+  max-width: 100%;
+  margin: 0;
+  background-color: rgb(247, 54, 54);
+  color: white;
+  font-size: 12px;
+}
+
+
+.container {
+  height: 250px;
+  width: 400px;
+  background-color: rgb(244, 45, 45);
+  margin: 15px;
+  color: rgb(230, 252, 245);
+  text-align: center;
+
+}
